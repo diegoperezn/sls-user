@@ -13,7 +13,7 @@
 
 service: user
 # app and org for use with dashboard.serverless.com
-#app: your-app-name
+app: gloss
 #org: your-org-name
 
 # You can pin your service to only deploy with a specific Serverless version
